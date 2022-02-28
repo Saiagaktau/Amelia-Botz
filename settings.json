@@ -1,12 +1,12 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
-     "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
+     "namalu" : "FiraaChann",
+     "nomerlu": "6283830815715",
+     "namabot": "FiraaBotz",
+     "nomerbot": "6281331222400",
+     "gender" : "Girl",
+     "copyright" : "FiraaChan",
+     "namaDocument": "Firaa",
      "joinGcExtream": true,
 
      "publik": true,
@@ -45,14 +45,14 @@
      },
      
      "setPayment": {
-     "Shopee" : "085156137901",
-     "Gopay" : "085156137901",
-     "Dana" : "085156137901",
-     "Ovo" : "085156137901"
+     "Shopee" : "082",
+     "Gopay" : "082",
+     "Dana" : "082",
+     "Pulsa" : "083830815715"
      },
      
      "setPrefix": {
-     "prefix": "!",
+     "prefix": ".",
      "multi": true,
      "onepref" : false,
      "nopref" : false
